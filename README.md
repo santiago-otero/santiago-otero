@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Otero</h1>
 <h3 align="center">A passionate self-taught software development student</h3>
 
-- 🌱 I’m currently learning **Flask, database creation and manipulation**
+- 🌱 I’m currently learning **Flask, database creation and manipulation, tasks automatization**
 
 - 📫 How to reach me **oterosantiago.work@gmail.com**
 
